@@ -1,0 +1,22 @@
+.button {
+  margin: 5px auto;
+  text-align: center;
+  font-size: 26;
+  font-family: sans-serif;
+  border: 1px solid grey;
+  border-radius: 5%;
+  width: 40%;
+  background: #24dd71;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: #33ff88;
+  cursor: pointer;
+}
+
+.img {
+  width: 40%;
+  margin: 20px auto;
+  display: block;
+}
